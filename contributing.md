@@ -187,6 +187,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Tale of Immortal · Updated 2026-11-17 · Shared under the MIT License*
+*Tale of Immortal · Updated 2026-11-18 · Shared under the MIT License*
 
-<!-- rev 2026-11-17 -->
+<!-- rev 2026-11-18 -->
